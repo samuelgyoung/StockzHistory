@@ -1,0 +1,90 @@
+2016-08-26 13:13:20,231 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:13:20,233 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:13:20,233 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:13:20,236 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:13:20,236 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:13:20,236 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:13:20,243 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:13:20,244 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_37617.stk
+2016-08-26 13:13:20,244 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:27:39,174 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:27:39,177 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:27:39,177 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:27:39,179 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:27:39,179 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:27:39,179 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:27:39,185 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:27:39,185 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_11667.stk
+2016-08-26 13:27:39,185 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:29:37,022 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:29:37,025 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:29:37,025 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:29:37,028 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:29:37,028 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:29:37,028 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:29:37,035 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:29:37,035 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_25153.stk
+2016-08-26 13:29:37,035 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:30:11,381 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:30:11,384 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:30:11,384 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:30:11,386 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:30:11,386 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:30:11,387 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:30:11,392 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:30:11,393 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_92078.stk
+2016-08-26 13:30:11,393 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:30:45,652 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:30:45,655 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:30:45,655 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:30:45,656 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:30:45,656 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:30:45,657 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:30:45,663 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:30:45,663 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_89718.stk
+2016-08-26 13:30:45,663 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:32:31,736 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:32:31,739 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:32:31,739 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:32:31,741 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:32:31,742 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:32:31,742 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:32:31,748 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:32:31,748 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_34207.stk
+2016-08-26 13:32:31,748 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:35:23,392 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:35:23,394 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:35:23,395 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:35:23,396 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:35:23,396 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:35:23,397 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:35:23,403 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:35:23,403 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_219.stk
+2016-08-26 13:35:23,403 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:36:22,887 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:36:22,890 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:36:22,891 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:36:22,892 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:36:22,892 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:36:22,893 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:36:22,900 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:36:22,900 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_4305.stk
+2016-08-26 13:36:22,900 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:36:49,246 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:36:49,248 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:36:49,249 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:36:49,251 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:36:49,251 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:36:49,251 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:36:49,258 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:36:49,258 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_14290.stk
+2016-08-26 13:36:49,258 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
+2016-08-26 13:37:13,693 [main] DEBUG StockzHistory - main(StockzHistory.java:39) Creating thread execution service.
+2016-08-26 13:37:13,695 [main] DEBUG StockzHistory - main(StockzHistory.java:41) Thread execution service created.
+2016-08-26 13:37:13,696 [main] DEBUG StockzHistory - main(StockzHistory.java:63) Running a thread with input: c 100
+2016-08-26 13:37:13,697 [main] DEBUG StockzHistory - main(StockzHistory.java:66) Shutting down threads.. 
+2016-08-26 13:37:13,697 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:105) Creating the calendar instance
+2016-08-26 13:37:13,698 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:107) Setting SimpleDateFormat MM/dd/yyyy
+2016-08-26 13:37:13,704 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:118) Going this many days back : -100
+2016-08-26 13:37:13,705 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:133) Setting the random file to C_36177.stk
+2016-08-26 13:37:13,705 [pool-1-thread-1] DEBUG AnalyzeStock - run(StockzHistory.java:137) Trying : http://ichart.finance.yahoo.com/table.csv?s=C&a=4&b=18&c=2016&d=7&e=26&f=2016&g=d&ignore=.csv
